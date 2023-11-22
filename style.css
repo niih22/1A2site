@@ -27,3 +27,8 @@ nav a{
     font-size: 22px; /*tamanho da fonte/*
     text-decoration: none;/* retirar o sublinhado do texto/*
 }
+
+/*passando o mouse sobre o elemento (pseuo-classes)*/
+nav a:hover {
+    color: #a108bc; /*espaçamento a cor*/
+}
