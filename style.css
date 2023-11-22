@@ -31,4 +31,12 @@ nav a{
 /*passando o mouse sobre o elemento (pseuo-classes)*/
 nav a:hover {
     color: #a108bc; /*espaçamento a cor*/
+    text-decoration: unerline; /*texto sublinhao quando o mouse estiver posicionado*/
 }
+
+.produtos {
+    widht: 940px;/*largura*/
+    margin: 0 auto;/*espaçamento externo*/
+    padding: 50px 0;/*espaçamento interno*/
+}
+
